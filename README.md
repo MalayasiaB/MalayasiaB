@@ -4,7 +4,7 @@
 - <b>Active Directory Home Lab (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]()
 - <b>Honeypot Home Lab (Microsoft Sentinel)</b>
-  - [Creating Alert, Running Playbook](https://github.com/MalayasiaB/Honeypot-using-Microsoft-Sentinel-/blob/main/README.md)
+  - [Creating an Alert, Running Playbook](https://github.com/MalayasiaB/Honeypot-using-Microsoft-Sentinel-/blob/main/README.md)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
   - [JWipe (Disk Wiping Utility)]()
