@@ -5,9 +5,9 @@
   - [Praciting DS & Algos in Python]()
 - <b>Honeypot Home Lab (Microsoft Sentinel)</b>
   - [Creating an Alert, Running Playbook](https://github.com/MalayasiaB/Honeypot-using-Microsoft-Sentinel-/blob/main/README.md)
-- <b>PowerShell</b>
+- <b>Splunk and SOAR</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
-  - [JWipe (Disk Wiping Utility)]()
+  - [Jira Playbook Using Splunk SOAR)](https://github.com/MalayasiaB/Splunk-Soar-Playbook)
   - [Active Directory Bulk User Creation]()
   - [FIM (File Integrity Monitor)]()
 - <b>Network Traffic Analysis</b>
