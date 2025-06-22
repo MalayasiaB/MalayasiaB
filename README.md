@@ -3,8 +3,8 @@
 
 - <b>Active Directory Home Lab (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]()
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware]() <b><i>(Potentially NSFW)</b></i>
+- <b>Honeypot Home Lab (Microsoft Sentinel)</b>
+  - [Creating Alert, Running Playbook](https://github.com/MalayasiaB/Honeypot-using-Microsoft-Sentinel-/blob/main/README.md)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
   - [JWipe (Disk Wiping Utility)]()
