@@ -3,13 +3,12 @@
 
 - <b>Active Directory Home Lab (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]()
-- <b>Honeypot Home Lab (Microsoft Sentinel)</b>
+- <b>Honeypot Lab (Microsoft Sentinel)</b>
   - [Creating an Alert, Running Playbook](https://github.com/MalayasiaB/Honeypot-using-Microsoft-Sentinel-/blob/main/README.md)
 - <b>Splunk and SOAR</b>
   - [Playbook Creation (Workloads & KPI's)](https://github.com/MalayasiaB/SOAR-Playbook/blob/main/README.md)
   - [Jira Playbook Using Splunk SOAR)](https://github.com/MalayasiaB/Splunk-Soar-Playbook)
-  - [Active Directory Bulk User Creation]()
-  - [FIM (File Integrity Monitor)]()
+  - [Integrating Slack with Splunk for Automated Response Actions](https://github.com/MalayasiaB/Splunk-Slack-Integration/edit/main/README.md)
 - <b>Network Traffic Analysis</b>
   - [Monitoring SMB and HTTP Traffic](https://malayasiab.carrd.co)
 - <b>PenTest & Vulnerability Assessment</b>
