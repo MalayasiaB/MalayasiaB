@@ -8,7 +8,7 @@
 - <b>Splunk and SOAR</b>
   - [Playbook Creation (Workloads & KPI's)](https://github.com/MalayasiaB/SOAR-Playbook/blob/main/README.md)
   - [Jira Playbook Using Splunk SOAR)](https://github.com/MalayasiaB/Splunk-Soar-Playbook)
-  - [Integrating Slack with Splunk for Automated Response Actions](https://github.com/MalayasiaB/Splunk-Slack-Integration/edit/main/README.md)
+  - [Integrating Slack with Splunk for Automated Response Actions](https://github.com/MalayasiaB/Splunk-Slack-Integration/blob/main/README.md)
 - <b>Network Traffic Analysis</b>
   - [Monitoring SMB and HTTP Traffic](https://malayasiab.carrd.co)
 - <b>PenTest & Vulnerability Assessment</b>
