@@ -5,7 +5,7 @@
   - [Atomic Red Team](https://github.com/MalayasiaB/Detection-and-Incident-Response/blob/main/README.md)
 - <b>Honeypot Lab (Microsoft Sentinel)</b>
   - [Creating an Alert, Running Playbook](https://github.com/MalayasiaB/Honeypot-using-Microsoft-Sentinel-/blob/main/README.md)
-- <b>Splunk and SOAR-Respone Automation</b>
+- <b>Splunk and SOAR-Response Automation</b>
   - [Playbook Creation (Workloads & KPI's)](https://github.com/MalayasiaB/SOAR-Playbook/blob/main/README.md)
   - [Splunk SOAR Playbook with Jira Integration](https://github.com/MalayasiaB/Splunk-Soar-Playbook/blob/main/README.md)
   - [Integrating Slack with Splunk for Automated Response Actions](https://github.com/MalayasiaB/Splunk-Slack-Integration/blob/main/README.md)
