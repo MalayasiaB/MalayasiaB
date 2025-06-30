@@ -1,8 +1,8 @@
 <h1>Hi, I'm Malayasia!  <a href="https://www.linkedin.com/in/malayasia-bacon/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]()
+- <b>Detection & Incident Response</b>
+  - [Atomic Red Team](https://github.com/MalayasiaB/Detection-and-Incident-Response/blob/main/README.md)
 - <b>Honeypot Lab (Microsoft Sentinel)</b>
   - [Creating an Alert, Running Playbook](https://github.com/MalayasiaB/Honeypot-using-Microsoft-Sentinel-/blob/main/README.md)
 - <b>Splunk and SOAR</b>
