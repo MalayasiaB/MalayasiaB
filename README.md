@@ -18,6 +18,7 @@
 
 - [Security+](https://www.credly.com/badges/c8ec5a6e-d94e-4164-805b-b2c2c0c8bd73/public_url)
 - [Cisco Networking Basics](https://www.credly.com/badges/b2916fc1-952b-40b0-b581-60cc7e65529b)
+- [Cisco Introduction to Cybersecurity](https://www.credly.com/badges/a3e0c318-fae2-4872-9852-ecb0fd861859/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
